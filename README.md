@@ -7,3 +7,4 @@ This is a mock repository for Manager Applications
 3. Create a `branch` with your first name (lower case)
 4. `Publish` it to your fork
 5. Make a `pull request` (PR)
+Done
